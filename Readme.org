@@ -1,0 +1,1205 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:nil broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:nil tasks:t tex:t
+#+options: timestamp:nil title:t toc:nil todo:t |:t
+#+title: OTKA
+#+date: <2023-05-08 h>
+#+author: Kalicz Péter
+#+email: kalicz.peter@uni-sopron.hu
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.1 (Org mode 9.3)
+#+latex_class: article
+#+latex_class_options: [12pt,a4paper]
+#+latex_header: \usepackage[margin=1in]{geometry}
+#+latex_header: \usepackage{indentfirst}
+#+latex_header: \usepackage[hungarian]{babel}
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_compiler: pdflatex
+
+143972 SNN
+
+* <2023-01-31 k>
+Intézeti után megbeszélés.
+
+Kutatási és munkatervet elolvasni.
+
+Idénre mit kell csinálni?
+Hová lehet tenni.
+
+Kert a Botankertbe. Fenyvesbe.
+HA mennyire reprezentatív.
+
+Botankerti adatok. Csapadékmérő hogyan hozzáférhető?
+
+Intercepciós cikk, ami tavaly nem ment el. Jakeman-Hornberger elment
+Hirdológia Közlönyben.
+
+Városi helyszín és a külső összehasonlítás. Nyomásszonda is van?
+Kinyitni?
+
+ÉDUVIZIG a Bánfalva.
+
+Amit egyébként is csinálunk.
+
+Lepedus Erzsébet.
+
+** Korszerűsítés
+
+Berendezések cseréje és korszerűsítése.
+Bükkös tartály beállítása.
+
+Égeresben hordó hengeres. Forrasztani egy hengeres hordót.
+
+Betárazni cuccokból.
+
+** Közös adatbázis
+Amiből dolgozni tudjunk. Legfontosabb.
+
+** Megbeszélés
+Indítót. Tartunk.
+
+** Adatfeldolgozás tanfolyam
+Egybe legyenek az adatok.
+
+Égeres kert talajvízkú összerakása hogyan?
+
+** Online meeting
+Szlovénekkel közös. Nyáron a lemenetel. Akár bukófordulóval.
+
+** Pénzügy
+Nóra lesz.
+
+** Foglalkoztatás
+2 hallgató + egy kutató.
+
+Koch Dani + a mi munkatársaink.
+
+6 mio. Ft.
+
+** TKPra történt-e hivatkozás
+Herceg Andris megnézi!
+
+* <2023-02-06 h>
+** Introduction
+*** Sopron
+**** Zoli
+**** Péter
+**** Kati
+*** Baja
+**** Koch Dani
+Assistant lecturer + PhD students
+measurements and modelling
+**** Keve Gábor
+U of Public Service
+Department head
+Lot of regional water managements. RR model, small catchments.
+Empirical methods for flood calculations.
+*** Slovenia
+**** Katarina Zabret
+Rainfall interception. Urban park intercep + soilmositur
+**** Klaudija Leber
+Kuzlovec catchment hydrology + measurements
+**** Metaja Clun
+Teaching assistant. Hydroextractors
+**** Mojca Sraj
+professor, civil engineer Hydro modelling. Rainfall interception
+**** Nejc
+Hydrology measurements modelling, different staffs.
+
+
+** Regular meetings
+Main question.
+
+Regular meeting on internet. Mondays
+2 p.m. regular meetings.
+
+6th Marc 1.April some date not OK.
+
+** Project
+Funding. Open access publish.
+
+Hungarian pre-payed publications.
+
+MDPI jurnals.
+
+
+** TODO
+renewal an reconstruction
+
+** Catchments
+*** Slovenian
+Transpiration.
+Slovenian operational
+Kuzlovec reconstructions.
+
+Most of the measurement in operations.
+
+*** Baja
+Magyaregregy
+New urban plot
+
+*** Sopron
+Urban plot in the botanical garden new!
+
+** Visit
+Visit the Slovenian partners.
+
+We can play within the year.
+
+Slovanien visit in Hungary. June. (July and Augus avoided)
+
+** Software
+MS Teams
+
+Teams 
+
+SI-HU project proposal 2022
+
+Top right change organisations!
+
+** Webpage
+Create webpage
+
+Sub page on Slovenija page.
+
+** Publication
+quntifiing.
+
+Any minimal number of publications.
+
+At the second year minimal two international journal publish paper.
+
+** Next meeting
+6th of Marchs
+New equipments ... 
+
+*** Experimental plot
+
+*** Visit
+
+*** Common database
+
+** Equipment
+What?
+
+* <2023-02-21 k>
+** Szerződés
+OTKA szerződés módosítás. Elfogadják-e?
+
+Kati és Andris 2025-ben visszalép Andris 0.8-ra. Tímeának nem kell külön egység
+
+** Kutatási terv
+
+Szlovén látogatás
+
+Közös adatbázis
+
+Botankerti terület kijelölése április. Kiválasztani a helyet.
+
+** Munkaterv
+MunkatervMagyarJav.docx
+
+Misi szerű kis füzetet kiadnánk! Csak titkos feladat!
+Ne fogjunk sokat. Zoli hajlamos rá.
+
+Gyakorlatra is szét kellene nézni. Mi van meg a bükkösnél.
+
+** Avarintercepció
+30 db keret van. Kint nem tudunk mérni. Horogmérleg, hogy legyen még.
+
+** Botankert
+Mi kellene? Kati nézegette.
+
+Műanyag kanna két nyílású fehér, mércés. Ha nagy fák, akkor hordó kell.
+Maradjon benne. 40 db padláson. Kádak vannak.
+
+Ágit meg kell várni.
+
+Virágládák reparálása. Nem virágláda, hanem más lenne benne. Automatizálni!
+Kapillárisan nem fogja leszívni. Nagy felületű egymásba csűszó.
+
+Nagyobb nehéz. Minden borul. Avarintercepció kulcskérdés. Botankerben mérni.
+
+Bemutató erdő-víz forgalom. Ott még egy kút is jó lenne.
+
+Erdeifenyő és akác is. Botankertben csapadékmérés. Ki csinálja?
+Kellenének a csapadékadatok.
+
+Szigetinét akarja bevenni. ERTI-s.
+
+** Adatbázis felépítéséről
+Csináltunk videót a Hidegvízről.
+
+Kati jövő hétre begépeli.
+
+Andris lefordítja angolra.
+
+* <2023-03-06 h>
+** Agenda
+
+** 1. Teams
+Files ok, but chat?
+
+Activity is seeeble Post and Files
+
+Issues.
+
+https://teams.microsoft.com/l/team/19%3aGdOwjcmJljcDXEewIrH3_ud2LeWVbbN5wpEljfTAFLg1%40thread.tacv2/conversations?groupId=60ba37c0-4e84-46be-8484-bc1f391a9302&tenantId=a6cc90df-f580-49dc-903f-87af5a75338e
+
+Hozzá vagyunk adva.
+
+** 2. web-pages, any suggestions
+Created webpage. They created.
+
+We make a link.
+
+Activities are.
+
+URL is send through MSTeams. Activities will show the links.
+
+** 4. database creation
+Google drive tools is OK
+
+UPDATES experimental plots!
+
+** 3. Experimental plots
+University public service.
+
+Two potential places.
+
+Introduce urban experimental plot. Short presentation about urban plot.
+
+April 15 minutes. Introduce what we measure.
+
+Both sides introduce all measurements on each side.
+
+April Ljubjana.
+
+** 5. In person meeting June
+In person meetin in June.
+
+Sopron. Can we fix the date.
+Danube conference.
+
+August 23th Danube conference.
+
+5– and 12–
+5– még nekik lectures vannak!
+
+One day meeting or two days.
+
+4 hours. One day meeting.
+
+Beginning or the end.
+
+between 12–16 one day meeting.
+
+** 6. Possible research
+What measurements conducting.
+What we have to compare. Interception. Runoff data. Runoff coefficient.
+
+We will see all measurements and database.
+
+We can discuss in every discussion.
+
+** Additional meetings.
+Zoli: To produce 12 meetings we meet.
+
+** Next meeting
+April 3. 14:00
+
+* <2023-03-07 k> Zolival
+A szerződés módosítást még mindig nem küldte el Zoli.
+
+A Kati és a Tímea feladata kerüljön bel, kérte Bádonyi Kriszti.
+
+A kutatási tervet mindenki ismerje, át kellene
+
+Ami Kingának kell, azt Andris segíti összeszedni.
+
+Tímea bére, s Kati. Andrisnak tartalékolni!
+
+Fizetésnél bérköltség egy sor!
+
+100% körül lehetünk kutatásra. TKP-ból plusz pénzt kapunk!
+
+Pályázattal kapcsolatban az látja Zoli, hogy Andris és Kati vigye.
+
+** Szerződés javítás
+
+Felmerült egy javítás. Sok dologi költség van.
+Eszköz bérlés van.
+
+** Bérlés, javítás
+Javítást bele lehet írni.
+
+Amíg a javított szerződés nincs leadva, addig nincs kifizetés.
+
+** Vízsebesség mérő
+Svarc keretből meg lehet venni.
+
+Javítást nem raktunk bele.
+
+** Keddi megbeszélés
+Vannak dolgok, amiket nem tudunk csinálni. Kapacitás hiányában nem
+mennek dolgok. Be lehet csatlakozni.
+
+Mielőtt ötletelünk, a munkatervet és a tudományos tervet át kell nézni.
+
+** Fókusz
+Rakjuk rendbe az adatbázisokat. Nem biztos, hogy kell új mérés.
+
+** Baja
+Egy városi területet. Plotot nekik is kell!
+TKP-ban rengeteg dologi van. Abból lesz a kerítés! Júniusra mindent beszerezni,
+utánfutóval.
+
+OLVASNI a pályázatot!
+
+* <2023-03-14 k> Feladatok, meg tudunk csinálni.
+Mit nem tudunk megcsinálni?
+
+Munkaterv alapján Zoli: Szlovéneknek vannak olyan mérései és
+szenzorai. Multi szenzoros erózió és nitrát. Mi manuálisan tudnánk, de
+nem akarunk. Waterqualitityt andris sem húzta alá. Geisz Ádám anyagot
+megígértük.  Az Egyetem vesz. Nem vettük meg. Andris is
+lefényképezte. Képet elküldi. Joint project. Munka a tervezés az OTKA.
+Nem kell H2020-as!
+
+Nekünk van repülés, Géza prezentálja. Legyen egy lézer
+szkennelés. TreeJoy projekt. Kivágja Géza és berakjuk.
+
+Andris csapadék. Kevééknél kisebb egy kicsit. Három klimatikus
+körülmény.  Hol van melegebb, csapadék? Ebből mi lesz? ActaSylvatica.
+Q1-Q2 kell egy! Egy fa és alatta néhány eszköz! Hivatkozunk cikkükre.
+Hasonló legyen. Billenőedényessel mérjük.
+
+Nivus szétszerelés. Schwartzból.
+
+Szlovén urban plot. Próbáljunk hasonlót csinálni. Amilyen elem kell
+hozzá beszerzünk. Nem ebből lesz publikáció.
+
+Ne a meeting során legyen brain storming. Legyen több ajánlat! Egy
+terület minden résztvevő helyén meg legyen.
+
+Kevéékkel beszélt Zoli. Havi 50 ezerért mérhetnek is. Magyaregregyről
+nem beszéltek. Manuális mérést lehet belőle beállítani. Cooperation
+ha van a publikációból nincs gond.
+
+Intercepció, lefolyás, talajnedvesség.
+
+Szlovén társzerzők + cikkek.  Objektumok megvalósultak-e?
+
+Minden helyszínen talajvíz kút, számoljunk belőle! Egy kút
+reprezentatív-e?  Néhány dm környezetben mutathatja! Arra az
+állományrészre jellemző. Avarintercepcióra kis parcellát.
+Avar élőmunka igény nagyobb. Homokos-e a terület?
+Máshol egy kút 1 milla. Talajmechanika, rétegsor leírás.
+
+Olyan, amit ti ketten (Kati és Andris) ki tudtok vitelezni.
+Kútfúráshoz nem értünk.
+
+Kopulákban jók a szlovének. Elmondják. Szolgay mondta, hogy nem
+hülyék. Komoly műszereik vannak.
+
+Kevéék sincsenek benne, hogy milyen folyamatok az erdőben. Ritkán
+mennek ki Magyaregregyre. Urban plotban mehet manuális és automata is.
+
+Urbánba tudunk harmonizálni. Lefolyásban együttműködünk.
+Szlovániában nem tudjuk, mit tudunk?
+
+Nem biztos, hogy megy.
+
+Avarintercepcióban senki sem lehet jó. Felszíni talajnedvesség. Nyomásszondával.
+
+Intercepciós edény.
+
+Minden évben egy cikk. Terepi munka nem mehet a cikkek rovására.
+Most mért adatokból nem tudjuk megcsinálni.
+
+Intercepciós cikk a hordóból. Csomó témák.
+
+Ne kezdjünk újba. EGU-ban futó témák. Előkészületben lévő cikkek.
+Nem a kaszót, hanem a Blanka (esetleg Zsombor).
+Csenge és Blanka dolgait cikké csinálni.
+
+Intercepciós cikk, amit Hofmannal próbáltunk.
+
+Vállalások!! 
+- Urban plot :: meglegyen,
+- látogatás :: jönnek-mennek,
+- adatbázis :: legyen valami.
+
+* <2023-03-21 k>
+** Koch Dani
+Egyeztetés telefonon. Adatok és rendszeres megbeszélés.
+
+** Égeres kert
+Hétfőn Tomival vascöveket vertek ősszel. Most beszintezték.
+
+Gáborék lézerszkenneres alappontjairól mértek.
+
+Felmérték a keresztszelvényeket. Eleje-vége be van mérve
+polárisan. Bal kéz felől indultak. Kút benne és a patakra merőleges legyen.
+
+Kutakon megy át minden szelvény. A szelvény elejére és végére le lett
+verve írás és talajkaró. Hossz-keresztszelvények rajzolhatók.
+Írás és talajkarónak van koordinátája. Acél karóval állandósított pont.
+
+Később is jó lesz.
+
+Száraz időszakban mennyire megy le a meder? Több dinamikára jó lehet.
+
+Tomiékkal lézer, szintezés és poláris adatai.
+
+Lézerszkenner visszatükröződik a vízfelszínről.
+
+** Botankerti kijelölés
+Jövő heti bejárás. Kedden kimegyünk. Koch Dániel bemutatója után.
+
+Egyet, kettőt vagy hármat.
+
+A legegyszerűbb fönt a kerítésnél. Erdei fenyő szerű.
+
+A másik a középső dzsumbujban. Ott van talajvíz is.
+4–5 fa egy blokkban.
+
+
+* <2023-03-28 k>
+Kert kijelölés. Kari tanácson voltam.
+
+Kerítés. Vascsövet verünk.
+
+Sarkot fából csinálni.
+
+Zsidákovics közmű.
+
+Botankert egyesített közműtérkép.
+
+B épület mellett. a másik oldalon.
+
+Ági: Rektor úr mit szól?
+
+Csak ez az egy lesz először.
+
+* <2023-04-03 h>
+** Overview of recent activities (research, experimental plots)
+*** Sopron
+Measurements +
+Experimental plot riparian zone.
+
+Some field survey, levelling, profiles, gw network measuring.
+Metal rods streambed and wooden rods.
+
+EGU analisys spatial and temprel dynamics.
+**** Urban plots
+Black spruce coverd area.
+
+Reseerved area.
+*** Presentation of the research plot in Ljubljana, by Mark
+Projet meeting
+
+Mark Bryan Alivio PhD studen.
+
+Near department building.
+
+Two group Birch and pine.
+
+gross rainfall, troughfall
+
+Scematics.
+
+2 tipping bucket. Stemflow spiral type rubber hoze
+
+funnel moving. to catch spatial variability
+
+though gauges.
+
+Disdrometer under canopy
+
+OTT parsivel under canopy.
+
+terrestial soil mosture
+
+teros 12 SM probe
+
+Lubjana center different type forest canopy. Water level and discharge.
+
+Storm water runoff.
+
+Preliminary data. graphs.
+
+Disdrometer curves.
+
+water level
+
+Fences? Not necessary.
+
+Siral vs. round.
+
+Moica used. They use in the sam version.
+
+Through gauges. tipping bucket connectd  big one. Seond collector.
+
+Unidata 6506G 50 ml/tip.
+
+Birch automatically, Pine very little.
+
+Groundwater there is a slovenian environmental agency.
+We have.
+
+Blackpine settlemen.
+
+They plan replan 
+
+sap flow sensor. Not before may.
+
+*** Magyaregregy by Dániel Koch
+
+Magyaregregy settlement.
+
+Hous and meteo garden. meteo instruments.
+disdrometer.
+
+Discharge measuring gauges.
+
+Measurements and callibration. Soil exploration.
+
+74 6 layer soil moisture sensors. 3 point catchment Miskolc.
+
+2019 in short period
+
+32 km^2 total area
+
+Várvölgy-ben doktorizik. Main goal model RR process. Mike SHE modell.
+
+They plan schho and camp.
+
+Mobils stations, and gauges available.
+
+** Nejc summary
+Klaudia uploaded some short presentation next time natural cachment will be.
+
+** In-person meeting in Sopron, 13th of June? Discussion
+
+OK for everyone.
+
+** Joint research topics
+Spiral schlauch on trunks.
+
+through with tipping bucket.
+
+** Next online meeting, 8th of May
+OK
+
+** Other
+
+* <2023-04-04 k>
+
+Beszámoló a nemzetköziből.
+
+Mit vigyünk? Ami megy.
+
+Botankertből lehetnek cikkek.
+
+Cikkek a korábbi adatokból.
+
+Április. 25% bérátterhelés. Bérbeszámítás mehet.
+
+90% OTKA és TKP.
+
+EGU PICO előadás. 24-in mit kell csinálni. Építhetünk az őszi HydroCarpath oldalra.
+
+Kaszó vegetációs időszakban a konfidencia intervallumokat mutatta.
+
+Kiadvány a jövő héten jön. Teljes bérköltség csökken. 100 helyett 75 e Ft.
+
+EGUra koncentrálni.
+
+* <2023-05-04 cs>
+
+<2023-06-12 h> Program megbeszélése.
+
+- Géza köszöntése
+- Adatbázis bemutatásas
+- kint bográcsozás
+- Botankertbe a helyszín
+- Kinti terep és bogrács. kb. 2 óra.
+  Tímea és Kati főz.
+
+Városos kiadvány megmutatása.
+
+** Cikkek
+Klíma hatás.
+Közös cikkek a szlovénekkel.
+
+A közös cikk mutató. Intercepció és klíma modellek hatásai.
+Ahogy az Acta. Andris leszed klíma szcenáriókat.
+Acta Sylvatica jó.
+
+Zsombor cikket csinál Ohatra. Megtanulja az irodalmazást, R-t gyakorolja.
+Módszereket nézegeti.
+
+Ohat Toyotával, mert nincs szolgáltatásra pénz.
+
+netcdf 4 alkalommal beszélünk, ha negyedikre.
+
+** Topic jövő hétre
+- cikkek
+- utazás, terepbejárás
+
+** Kamilla
+Botankerti mérés. Két kút.
+
+Szabadterületi. Kialakítás, ledokumentálás.
+
+Lesznek adatok.
+
+Mikor végez? Jövőre. Félévet csúszik mechanika miatt.
+2024 tavasz.
+
+Városi parkok vízmérlegének vizsgálata
+vagy: Egy városi park vízforgalmának vizsgálata
+
+C1 nyelvvizsga.
+
+Kedd-szerda-csütörtök van. órája.
+
+Hétfőn jön?
+
+* <2023-05-08 h>                                                     :export:
+
+I am sending a link for our meeting today:
+https://uni-lj-si.zoom.us/j/92734241065. And the agenda for today:
+
+
+** 1. Overview of recent activities (research, experimental plots)
+*** Ljubjana
+Establich Kuslovecz rainfall interception measurement.
+
+Ljubjana replacement collectors. 
+
+Measurements. Draft document available.
+
+Prepare table similar to project applications. Basic characteristics, and what we measure
+what can we make together. Updated version of proposal.
+
+Kuzlovec, university, Urban plot .... and we.
+
+Are there any gaps from start. Proposed table on the teams. 2016 start.
+
+Zoltán: similar database. Metadatabase. All of our collected dataset.
+
+
+** 2. Presentation of the Kuzlovec catchment, by Klaudija
+20 km to ljubjana. 30 min by car. Part of bigger experimental catchment
+erb and other is advertised.
+
+Mixed forests > 90 %. Steep slopes 0.7 km^2 L=1.3 km
+
+*** Measruements
+7 gauges. Amount intensity duration. 
+
+Discahre at the outlet. Level measurement.
+
+Soil moisture only 1 profile. In 3 depth .
+
+Multi-parameter sensor no3- t, pH sp Cond sediment No3
+
+Nitrate controlled by spectrophotometer
+
+Seasonality LAI with LAI measurement from previous month
+
+Measuremnet INTERCEPTION steep cathcment suitable location need.
+
+~Water~, ~Science the total environment~ articles are covered the informations.
+
+Some of the part accessible by walk.
+
+** Sopron advancements
+*** Urban catchment
+Urban extension explained
+
+We can measure stage. And stage-discharge relationship.
+*** Urban plot selection
+Controlplot for our measurement.
+
+Potential places. Finally selected. Control and black pine plot.
+
+*** Borhole
+5 m depth profile. Some soil physical parameters. 2.8 m from the
+surface the groundwater is hitted.
+
+** 3. In-person meeting in Sopron, 13th of June, programme, arrival, departure
+Arrival when?
+
+Short introduction. Some welcom speeches.
+
+Research presentations 60 mins. Short lecture.
+
+Urban plot visit 30 mins
+
+Research catchment 20 minutes travel, 2 hours program.
+
+In the case of rain 15–20 peaople in the house.
+
+3 Nejc, Klaudia, Katarina. arrival OK. Some collegaus from Baja.
+
+Copula method is intersting. 1 presentation. Rainfall interception OK!
+
+Nejc: Copula functions in hydrology 0.5 hours.
+
+After Basic parameters of our reserch catchments.
+
+We will upload presentation.
+
+Young student with bachelor degree. Urban park water balance. Orosz Kamila BS thesis.
+She can take part in the data collection.
+
+Related publications discussed during the visit.
+
+** Baja
+Last month introduced. No other mentions.
+
+** 4. Joint research topics
+will discussed in person meeting.
+
+** 5. Next online meeting, 5th of June, 14:00
+Will be short.
+
+** 6. Other
+No.
+
+* <2023-05-23 k>
+** ÚNKP
+Külön MSc és BSc Zsombor beadhatja.
+
+Orosz Kamilla.
+
+* <2023-06-05 h>
+
+** 1. Overview of recent activities from both sides (research, experimental plots)
+- bridge reparation
+- visitong professor in Ljubjana from Alabama
+
+** 2. In-person meeting in Sopron, 13th of June
+powerpoint upload.
+
+Programme again.
+
+Botanical garden.
+
+Research house.
+
+Slovenian 4
++ Mark
+
++ 2 person from Baja
+
+Kérdés:
+mobil telefon szám?
+
+** 3. Joint research topics, students exchange
+Two student. They will inform us.
+
+** 4. Next online meeting, 10th of July, 14:00
+Beírtam a naptárba.
+
+** 5. Other
+No.
+
+* <2023-06-13 k>
+Program emailből
+** Arrival (around 10 am) Refreshments
+Zsuzsa Szombathelyről (Baja) kicsit korábban jött. 
+** Intro (Uni, Faculty, Institute-Department) 20 mins
+Kornél nem volt, Géza mutatta be a kart is. Kornél küldött diasort.
+Bemutatta géza az összes intézetet.
+
+** Research presentations 30 mins (some selected topics):
+Zoli
+** Nejc Bezak (University of Ljubjana): Copula Functions in Hydrology (30 mins)
+Videó készült.
+** Urban Park Plot Visit 30 mins
+** Research Cathment Visit, Scientific Dicussions (including Travel and Luch) (3-4 hours)
+** Departure (around 15-16 o’ clock?)
+
+
+Géza beszélt a karról és az intézetről.
+
+
+* <2023-07-10 h>
+
+1. Overview of recent activities from both sides (research, experimental plots)
+2. Joint research topics
+3. Next online meeting, 14th of August, 14:00 
+
+Kamila literature. Katarina will manage it. Teams folder.
+
+Botanical garden measurement. We took the registering.
+Soil moisture with TDR.
+
+They measure soilmoisture with automatic sensors.
+
+Luca measurements in Pilis. We will set a measurement around ground water well.
+
+Nejc: Mini-disk infoltrometer measurement under forest
+His plot has large infiltration capacity variability.
+
+Mark's PhD study.
+
+https://www.mdpi.com/2073-4441/11/5/941
+
+Folder structure.
+
+Keve sensors in campus area. Dániel some 100 sq. meters.
+
+** Video
+Felraktam.
+
+Runoff
+
+Itt elveszítettem a fonalat a képernyőkép miatt.
+
+Diurnal signal folder will.
+
+Next meeting. diurnal, kamila, research, litter interception.
+
+HydroCarpath
+
+Beszélgetés Gáborral.
+21-én elutazik augusztus necces.
+
+júli 27–28
+
+* Közös
+- kút fúrás
+- manuális intercepció mérés közösen
+- talajnedvesség, ha egyik mégis jó. Botankert.
+
+* <2023-08-23 sze>
+Warm-up
+
+Small number of participants.
+
+Information shared about activities on Botanical garden.
+
+Baja end of July.
+
+Explanation of documents uploaded. Mark will read it.
+
+Nejc litter interception established. Double containers are settled.
+August big floods, but there were no litters.
+
+Tipping buckets are purchased and they try to install for catchment.
+
+There was a publication on the Danube conference. It will uploaded.
+
+Mojca geodetic measurement was made for tree location.
+
+Mark will work with arnold cycles?
+
+Common publication.
+
+15th Sept 9 a.m.
+
+** Tervek
+Tölgyesbe 3 kád.
+
+Lehet a gödörbe téve használni? Deszka.
+
+A három kád mehet a botankertbe.
+
+Nem tudunk venni lábhoz anyagot és nincs időnk megcsinálni.
+
+* <2023-09-05 k>
+
+** Meta-adatbázis
+
+** Műszer javítás és bérlés
+
+Bérlés megy.
+
+Rossz műszereket leviszi Kati.
+
+Bérlésre kell keríteni egy mintát.
+
+** Bekeretezett jegyzőkönyv
+Csinált Kati.
+
+Amíg nem végleges mindegy.
+
+Hogyan lehetne elektronizálni?
+
+Hová megy a vályú, hordók.
+
+Kamilla TDK
+
+1 hét egy lap.
+
+** Terep bejárás
+Megnéztük, hogy mi van lent a kertben.
+
+Ferde törzsek, koronavetület Balázsnak.
+
+* <2023-09-15 p>
+Semester started
+
+** Presentation of Hungarian partners
+Zoli try to start presentation.
+Members, history of education. History of research.
+Plots, gauges, Interception, litter and crown interception models,
+Diurnal fluctuation. Sediment. Runoff, urban hydro.
+Ohat. Kaszó, klíma. Minden is.
+
+Nejc: Lot of different stuff.
+Urban-natural catchment. Two sites in Ljubjana. We can combine somehow.
+
+** Diurnal cycles
+Mark Bryan Alivio
+Diurnal from early spring late summer.
+2023 absent.Dry spring.
+Nagyon hosszan beszéltek. Én nem láttam 
+
+** Urban park references
+Avaros technológia megbeszélése.
+
+** Further steps
+Next meeting Oct 13. 9:00
+
+* <2023-09-26 k>
+HydroCarpath meghívó
+
+Szlovén intercepciósba bevenni, amit Andris elkezdte
+Pétertől idő, elkészüljön Két percbe modell. Kiválasztott évek csapadékeloszlása.
+
+Patakmentibe megbeszélni, hogy bevenni?
+
+Zsombor és Lili
+
+** Műholdas ET vizsgálat
+Soil sense
+Három éves kifutású. Dudlesz, TAEG, ország.
+
+Párolgás és lézeszkenner felületen lefolyás
+
+Gyári ET-k kukák, de lehet használni.
+
+Báder Laci hogyan áll a dolgával?
+
+Balázs cikkét Acta Sylvaticába
+
+** Andris behívva
+Átbeszélni, hogy mi lesz.
+
+** Agrokémiás cikk
+Géza elmagyarázta alaposan.
+
+** Soil Sense
+Vízösszegyülekezési zónák
+
+Zoli algoritmust ad.
+
+Csapadék = párolgás
+
+** Péntek kutatók éjszakája
+4-től 5-ig tart.
+
+Magunknak pillanatképek.
+
+** TKP jelentés
+Primusz Péter a jelentés megírásába.
+
+Botanikus kert előkészítés kiválasztás. Beszámoló.
+
+Hidegvíz, cikk, intercepció.
+
+** Kaszós cikk
+Kaszós cikk magyarítás. Vigyázni kell. Magyarítva.
+Jelentés szövegéból.
+Más legyen a cél.
+
+** Agrokémia
+Review megbeszélés.
+
+Ne egyes emberek küldjék a levelet.
+
+
+* <2023-10-13 p>
+ERB!
+
+
+** 1. Presentation about litter interception
+Presentation about litter interception and further discussion about
+litter interception and maybe comparison of urban vs. forested
+catchments (Zoltan and his team)
+
+Kati volt prezentáció.
+
+*** Klaudija question
+Why was take the sample May.
+
+Winter the place was not accessible.
+
+*** Mojca
+Some standard?
+
+Levelek a földről vannak. Ezt nem értették.
+
+*** Mark
+Urban area.
+
+*** Klaudija
+How often was measured.
+
+*** Mojca
+Method 3.
+
+** 2. Urban park water balance references (Katarina if you have time)
+Katarina uploaded the papers to the and open to the questions.
+
+** 3. Diurnal cycles and HydroCarpath conference presentation (Mark, please attend)
+Diurnal cycle plots.
+
+Viscosity and ET.
+
+Stream bed temperature.
+
+Discussion and about poster.
+
+** 4. Next meeting? Maybe Wednesday 8.11. at 13:00, Monday 13.11. at 12:00?
+Beginning of december
+
+Beginning of november about poster.
+
+** 5. HydroCarpath (András Herceg)
+
+
+** Others
+ERB
+
+* <2023-10-17 k>
+Lili adatok. 
+
+* <2023-12-11 h>
+9:00-től kezdünk.
+
+Nejc sent topics.
+
+** Ongoing measurements
+*** Slovenija
+Collecting data.
+
+They are waiting meteo station. January will arrive.
+Related to the urban plot.
+
+800 m away there is one, but it will on the plot.
+
+Some sensors. Maybe a tower.
+*** Sopron
+througfall, gw measurements.
+
+Waiting for atumates. 100 m far meteorological.
+
+Problem with sil moisture.
+
+We are waiting for fence material.
+
+Reorganisation of the place. We will reorganise.
+*** Baja
+Potential places investigated.
+Small part of campus. Thely start to install measurement system.
+
+There is a meteo station in the neighborhood.
+
+Manual evaporation measurement, with A-type pan.
+
+*** Sopron
+Meta-database, internet open-access site. We need take care of it.
+
+*** HydroCarpath extended abstract
+HydroCarpath three presentation related to the project.
+
+Scientific publication. If they can find error. Mark sent more complet.
+
+Mark prepare abstract for EGU.
+
+Scientific article.
+
+Nejc about hydrocarpath.
+
+*** Kamila thesis
+Katarina asked.
+
+HydroCarpath extended abstract is summary.
+
+** Other
+Meta-database on github.
+
+* <2024-01-08 h>
+Happy new Year!
+We need discuss about the database regularly.
+In this year we have not neccessary to make yearly report.
+
+Maybe Slovenian partner need to prepare.
+
+February collect the joint publications.
+EGU only one joint publication. Preliminary result of the urban plot.
+Mark submitted one abstract.
+
+Monday OK for scheduled meeting.
+
+12th February will be the firs meeting.
+
+Katalin collected dates. Prepare short file last year discussion.
+
+Next meeting will discuss Kamila thesis, and database one of that.
+
+Slovenia not has structured database. There is no example. Mark put most off
+the data in
+
+Dániel will make ftp server. Some structure has they will discuss the structure.
+GIS datasets, finel theses of students. Daniel will show something in February.
+
+To start something to discuss. Meta data-base of the first discussion. First half
+of the year. How goes on the data collection.
+
+Not the complete reworking.
+
+Nejc in person meeting will in person in summer in Ljubjana.
+Maybe June. We plan June.
+
+TU Wien project paralelly.
+
+** Overview the plan for this year
+Plot reconstructions, finishin of settling dataloggers and sensors.
+Urban runoff measurement settling. Data base and data sharing we discussed.
+Focusing interception. Crown and floor. We had no pine, only spruce.
+
+Transpiration soil moisture runoff data and so on. Joint publications.
+
+Urban plot in Baja. The place selected. We try to settle some kind of urban
+park plot. Good for dissemination, and presentation. Troughflow, stemflow,
+soil moisture.
+
+** Other
+Nejc agree, some sites.
+
+Joint publication, different climates, how it works?
+
+Slovenian partner have some ideas.
+
+** Next
+- Last year time schedule,
+- Kamilla thesis,
+- Daniel database structure.
+
+HydroCarpath conference available.
+
+Presentation with TU Wien at March.
